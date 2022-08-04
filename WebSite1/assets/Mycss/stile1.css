@@ -1,0 +1,24 @@
+﻿.boxAmazon1 {
+    position: center;
+    border: 10px, solid, white;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#boxAmazon {
+    position: absolute;
+    margin-top: 26vh;
+    width: 1350px;
+    background-color: aliceblue;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+
+
+#mainTable {
+    margin:0 auto;
+
+}
+
+
